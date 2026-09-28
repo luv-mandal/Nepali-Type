@@ -1,0 +1,6 @@
+{
+  "name": "Nepali Type",
+  "description": "English ma type gara, Nepali ma lekha. Fast Roman Nepali to Devanagari transliteration keyboard utility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
